@@ -1,0 +1,7 @@
+type Mutation{
+    createBankAccount(input: CreateBankAccountInput): BankAccount
+
+    createAccount(input: BankAccountInput): BankAccount
+
+    updateAccount(input: BankAccountInput): BankAccount
+}

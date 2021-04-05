@@ -1,0 +1,7 @@
+input CreateBankAccountInput {
+    firstName: String
+    lastName: String
+    address: String
+    phoneNumber: String
+}
+

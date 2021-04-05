@@ -1,0 +1,12 @@
+
+input BankAccountInput {
+    firstName: String
+    lastName: String
+    email: String
+    phoneNumber: String
+    street: String
+    houseNumber: String
+    zipCode: String
+    city: String
+    country: String
+}
